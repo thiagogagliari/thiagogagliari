@@ -4,8 +4,6 @@
 **`Apaixonado por FrontEnd`**\
 **`Focado em Desafios`**
 
-[![Thiago Gagliari](https://github.com/thiagogagliari.png?size=60)](https://github.com/DenverCoder1 "Jonah Lawrence on GitHub")
-
 Me chamo Thiago Gagliari, tenho 39 anos e sou natural de Fortaleza/CE. Estou cursando atualmente o curso de Análise e Desenvolvimento de Sistemas na Estácio FIC. Sempre gostei da tecnologia, especialmente o desenvolvimento web. Conclui o curso de Web Full Stack da Lsbenu em 2022 e atualmente estou cursando Web Full Stack pela Digital College.
 
 ### 🧰 Linguagens e tecnologias
